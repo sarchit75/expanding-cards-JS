@@ -1,1 +1,1 @@
-#This is a project using vanilla Javascript with HTML and CSS.
+# This is a project using vanilla Javascript with HTML and CSS.
